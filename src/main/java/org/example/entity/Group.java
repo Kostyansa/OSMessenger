@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 public class Group {
-    private int id;ff
+    private int id;
     private String name;
     private String description;
 
